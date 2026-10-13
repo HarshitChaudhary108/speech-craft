@@ -1,0 +1,69 @@
+﻿# Data directories
+notebook/data/
+data/
+outputs/
+
+# Virtual environments
+.venv/
+.venv1/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Audio files (large)
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.aac
+
+# Dataset files (large)
+*.arrow
+*.csv
+*.tsv
+*.parquet
+
+# Model files (very large)
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+*.h5
+*.pkl
+*.pickle
+
+# Logs and outputs
+*.log
+logs/
+wandb/
+tensorboard/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large JSON files (evaluation results, etc.)
+*.json
+!requirements.json
+!package.json
+!config.json
+!src/preprocess.json
+!**/config.json
