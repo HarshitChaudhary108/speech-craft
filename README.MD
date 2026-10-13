@@ -344,12 +344,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **PyTorch** and **librosa** communities for audio processing tools
 - **Research Community** for ASR evaluation methodologies and best practices
 
-## 📞 Support & Contact
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/whisper-hindi-finetuning/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/whisper-hindi-finetuning/discussions)
-- **Email**: your.email@example.com
-
 ## 🏷️ Citation
 
 If you use this project in your research, please cite:
@@ -370,7 +364,5 @@ If you use this project in your research, please cite:
 **🎯 Final Result: 0.920 WER (5.3% improvement over baseline)**
 
 *Successfully demonstrating Whisper fine-tuning for Hindi ASR*
-
-[![Star this repo](https://img.shields.io/github/stars/yourusername/whisper-hindi-finetuning?style=social)](https://github.com/yourusername/whisper-hindi-finetuning)
 
 </div>
